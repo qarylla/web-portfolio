@@ -1,0 +1,49 @@
+body{
+	background-color: rgba(50, 50, 50, 1.0);
+	background: url("../img/bg1.svg");
+	background-size: cover;
+}	
+
+
+.header{
+	background-color: rgba(50, 50, 50, 0.0);
+	width: auto;
+	height: 80px;
+	margin: 10px 10px 20px 10px;
+}
+
+.navbar-brand{
+	font: bolder 2.0em "Helvetica", sans-serif;
+	color: #2BA6CB;
+	text-shadow: 3px 3px #777;
+	
+}
+
+.navbar{
+	background-color: #333;
+	line-height: 40px;
+	vertical-align: baseline;
+}
+
+.nav-item{
+	font: 1.5em "Helvetica", sans-serif;
+	margin-right: 10px;
+}
+
+.info{
+	display: inline-block;
+	background-color: #333;
+	width: 98%;
+	height: 400px;
+	margin: 10px 10px 20px 10px;
+	line-height: 34%;
+	vertical-align: middle;
+	padding: 50px;
+	font: 1.5em "Helvetica", sans-serif;
+	color: #2BA6CB;
+}
+
+.map{
+	float: left;
+	padding: 10px;
+}
