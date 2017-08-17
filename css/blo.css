@@ -30,7 +30,12 @@ body{
 	margin-right: 10px;
 }
 
-.info{
+.map{
+	float: left;
+	padding: 10px;
+}
+
+#info{
 	display: inline-block;
 	background-color: #333;
 	width: 98%;
@@ -41,9 +46,4 @@ body{
 	padding: 50px;
 	font: 1.5em "Helvetica", sans-serif;
 	color: #2BA6CB;
-}
-
-.map{
-	float: left;
-	padding: 10px;
 }
